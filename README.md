@@ -1,36 +1,17 @@
 # euler100
 
-FIXME: description
+To learn some clojure, solved project euler's problem # 100.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from here.
 
 ## Usage
 
-FIXME: explanation
+run lein in the terminal.
 
-    $ java -jar euler100-0.1.0-standalone.jar [args]
 
-## Options
 
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2021 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
